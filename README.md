@@ -535,6 +535,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [stepfun-openrouter](https://github.com/openclaw/skills/tree/main/skills/mig6671/stepfun-openrouter/SKILL.md) - Integrates StepFun AI models (Step-3.5 Flash, Step-3)
 - [stepfun-openrouter-v2](https://github.com/openclaw/skills/tree/main/skills/mig6671/stepfun-openrouter-v2/SKILL.md) - Integrates StepFun AI models
 - [strykr-qa-bot](https://github.com/openclaw/skills/tree/main/skills/nextfrontierbuilds/strykr-qa-bot/SKILL.md) - QA automation skill for testing Strykr
+- [static-app](https://github.com/openclaw/skills/blob/main/skills/akellacom/static-app/SKILL.md) – Deploy static websites to static.app hosting.
 - [tech-stack-evaluator](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/tech-stack-evaluator/SKILL.md) - Technology stack evaluation and comparison
 - [technews](https://github.com/openclaw/skills/tree/main/skills/kesslerio/technews/SKILL.md) - Fetches top stories from TechMeme, summarizes linked articles
 - [telegram-reaction-prober](https://github.com/openclaw/skills/tree/main/skills/deadlysilent/telegram-reaction-prober/SKILL.md) - Probe which emoji reactions
